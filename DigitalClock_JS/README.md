@@ -1,3 +1,2 @@
-#JS Digital Clock
-Images:
-image.png
+# JS Digital Clock
+## Photo:
