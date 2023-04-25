@@ -1,3 +1,3 @@
 # JS Digital Clock
 ## Photo:
-![image](https://user-images.githubusercontent.com/114202252/233976337-5ade0a9a-c8b9-4453-900f-9ed1d239eb87.png)
+![image](https://user-images.githubusercontent.com/114202252/234251039-ad6651a7-8115-43f7-9027-cdbe3a471a1a.png)
