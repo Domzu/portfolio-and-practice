@@ -83,3 +83,8 @@ function init() {
 }
 init();
 form.addEventListener("submit", addTransaction);
+
+// Light and Dark theme toggle
+function toggleTheme() {
+  document.body.classList.toggle("dark-theme");
+}
