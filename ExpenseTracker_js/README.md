@@ -15,6 +15,6 @@
 
 ## Additional Photos
 ![image](https://user-images.githubusercontent.com/114202252/236678370-5d7d295c-bd4f-4c68-9f05-245bec2fbcd9.png)
-Added Salary, Rent, and Food expense.
+Added Salary, Rent, and Food expense. (light mode)
 ![image](https://user-images.githubusercontent.com/114202252/236678389-0355cbf2-2cc5-48a6-8368-24d27f4d1aec.png)
-Removed Rent and Food expense.
+Removed Rent and Food expense. (dark mode)
